@@ -1,19 +1,51 @@
-### Hi there 👋
+<h1 align="center">Hey there! 👋 I'm [Your Name]</h1>
 
-<!--
-**osho-20/osho-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/xT0xezQGU5xCDJuCPe/giphy.gif" alt="Hello GIF" width="400" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">Welcome to my GitHub Wonderland! 🌟</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![visitors](https://visitor-badge.glitch.me/badge?page_id=osho-20)
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=osho-20&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
- 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=osho-20&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/osho-20?style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/osho-20?style=social" alt="GitHub Stars" />
+</p>
+
+<p align="center">Let's embark on a coding adventure together!</p>
+
+<hr>
+
+<h2 align="center">🚀 Quick About Me</h2>
+
+<p align="center">
+  I'm a [Your Role/Title] with a passion for [Your Interests/Expertise].
+  <br>
+  Currently exploring [Current Learning Focus] and having a blast with [Another Interesting Topic]!
+</p>
+
+<h2 align="center">💻 Technologies & Tools</h2>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlRTvRQfpjbDmLu/giphy.gif" alt="Tech GIF" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=blue" alt="Python" />
+  <img src="https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=yellow" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-React-informational?style=flat&logo=react&logoColor=white&color=blue" alt="React" />
+  <img src="https://img.shields.io/badge/-VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue" alt="VS Code" />
+  <!-- Add more badges here! -->
+</p>
+
+<h2 align="center">📫 Connect with Me</h2>
+
+<p align="center">
+  <a href="mailto:youremail@example.com">Email</a> |
+  <a href="https://www.linkedin.com/in/yourprofile/">LinkedIn</a> |
+  <a href="https://twitter.com/yourtwitter/">Twitter</a>
+</p>
+
+<hr>
+
+<p align="center">Thanks for dropping by! Let's build something amazing together! ✨</p>
