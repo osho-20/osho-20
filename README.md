@@ -27,7 +27,7 @@
 <h2 align="center">💻 Technologies & Tools</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlRTvRQfpjbDmLu/giphy.gif" alt="Tech GIF" width="400" />
+  <img src="https://giphy.com/gifs/pudgypenguins-pudgy-penguin-pudgypenguin-Yfl7CS7vQqnebA69aH" alt="Tech GIF" width="400" />
 </p>
 
 <p align="center">
