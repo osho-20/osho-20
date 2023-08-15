@@ -27,10 +27,6 @@
 <h2 align="center">💻 Technologies & Tools</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlRTvRQfpjbDmLu/giphy.gif" alt="Tech GIF" width="400" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=blue" alt="Python" />
   <img src="https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=yellow" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-React-informational?style=flat&logo=react&logoColor=white&color=blue" alt="React" />
