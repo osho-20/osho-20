@@ -21,7 +21,7 @@
 <p align="center">
   I'm a Full-Stack Developer with a passion for Development.
   <br>
-  Currently exploring [Current Learning Focus] and having a blast with [Another Interesting Topic]!
+  Currently exploring Competitive Coding and having a blast with Full-Stack Development!
 </p>
 
 <h2 align="center">💻 Technologies & Tools</h2>
@@ -41,9 +41,8 @@
 <h2 align="center">📫 Connect with Me</h2>
 
 <p align="center">
-  <a href="mailto:youremail@example.com">Email</a> |
-  <a href="https://www.linkedin.com/in/yourprofile/">LinkedIn</a> |
-  <a href="https://twitter.com/yourtwitter/">Twitter</a>
+  <a href="mailto:yashjainiiita@gmail.com">Email</a> |
+  <a href="https://www.linkedin.com/in/yashjain027/">LinkedIn</a> 
 </p>
 
 <hr>
