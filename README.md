@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm [Your Name]</h1>
+<h1 align="center">Hey there! 👋 I'm Yash Jain</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/xT0xezQGU5xCDJuCPe/giphy.gif" alt="Hello GIF" width="400" />
@@ -19,7 +19,7 @@
 <h2 align="center">🚀 Quick About Me</h2>
 
 <p align="center">
-  I'm a [Your Role/Title] with a passion for [Your Interests/Expertise].
+  I'm a Full-Stack Developer with a passion for Development.
   <br>
   Currently exploring [Current Learning Focus] and having a blast with [Another Interesting Topic]!
 </p>
