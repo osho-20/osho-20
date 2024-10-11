@@ -19,10 +19,10 @@
   📊 GitHub Stats <br><br>
   <p align="center" style="display: flex; justify-content: space-around; align-items: center;">
   <img style="height: 200px; width: auto; border: 2px solid #FF4500;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osho-20&layout=compact&theme=radical" alt="Top Languages" />
+    <br>
   <img style="height: 200px; width: auto; border: 2px solid #FF4500;" src="https://github-readme-stats.vercel.app/api?username=osho-20&show_icons=true&theme=radical" alt="Yash's GitHub Stats"/>
-  <hr>
-  <p align="center">
-    <img style="height: 200px; width: auto;" src="https://streak-stats.demolab.com?user=osho-20&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+    <br>
+    <img style="height: 200px; width: auto;" src="https://streak-stats.demolab.com?user=osho-20&theme=dark&exclude_days=Sun%2CSat&type=png)](https://git.io/streak-stats" alt="GitHub Streak"/>
   </p>
 </h2>
 
