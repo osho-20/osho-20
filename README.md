@@ -124,7 +124,7 @@ yash@browserstack:~$ neofetch --stats
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=osho-20&bg_color=0d1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=00FF41&hide_border=true&days=365&radius=16" width="95%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=osho-20&theme=github_dark" width="95%" />
 </p>
 
 ---
