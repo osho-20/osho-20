@@ -90,11 +90,33 @@ yash@browserstack:~$ git log --oneline --graph -5 career
 ---
 
 ```bash
+yash@browserstack:~$ cat /dev/random/quote
+```
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=First%2C+solve+the+problem.+Then%2C+write+the+code.&author=John+Johnson&border=true" width="70%" />
+</p>
+
+---
+
+```bash
+yash@browserstack:~$ ls ~/trophies/
+```
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=osho-20&theme=matrix&no-bg=true&no-frame=true&column=7&margin-w=10" width="95%" />
+</p>
+
+---
+
+```bash
 yash@browserstack:~$ neofetch --stats
 ```
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=osho-20&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&icon_color=00FF41&title_color=00FF41&text_color=00FF41&ring_color=00FF41" height="180" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osho-20&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=00FF41" height="180" />
 </p>
 
 <p align="center">
@@ -103,6 +125,20 @@ yash@browserstack:~$ neofetch --stats
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=osho-20&bg_color=0d1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=00FF41&hide_border=true" width="95%" />
+</p>
+
+---
+
+```bash
+yash@browserstack:~$ ./contributions --animate
+```
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/osho-20/osho-20/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/osho-20/osho-20/output/github-snake.svg" />
+    <img alt="snake eating contributions" src="https://raw.githubusercontent.com/osho-20/osho-20/output/github-snake.svg" width="95%" />
+  </picture>
 </p>
 
 ---
